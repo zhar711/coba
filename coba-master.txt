@@ -1,2 +1,3 @@
-belajar github
+belajar php
 belajar javascript
+belajar golang
